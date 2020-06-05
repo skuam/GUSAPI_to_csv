@@ -1,0 +1,82 @@
+Cena;Stan;Typ telewizora;Marka;Technologia 3D;Przekątna ekranu;Format HD;Rozdzielczość ekranu;Liczba złączy HDMI;Technologia HDR;Klasa efektywności;Pobór mocy;Waga produktu
+9 999;Nowy;QLED;Samsung;nie;"82""";4K UHD;3840 x 2160;4;Tak;A;228 W;46.8 kg
+4 499;Nowy;QLED;Samsung;nie;"65""";4K UHD;3840 x 2160;4;Tak;A+;118 W;26 kg
+3 299;Nowy;QLED;Samsung;nie;"55""";4K UHD;3840 x 2160;4;Tak;A;111 W;-1
+3 299;Nowy;QLED;Samsung;nie;"55""";4K UHD;3840 x 2160;4;Tak;A;111 W;-1
+4 999;Nowy;OLED;Philips;nie;"55""";4K UHD;3840 x 2160;4;Tak;B;140 W;21.2 kg
+399;Nowy;LED;Kiano;brak informacji;"22""";Full HD;1920 x 1080;1;Nie;inna;36 W;-1
+2 178;Nowy;QLED;Samsung;nie;"43""";4K UHD;3840 x 2160;4;Tak;A;70 W;10.2 kg
+599;Nowy;LED;inna;nie;"32""";-1;1366 x 768;3;-1;A;55 W;-1
+579;Nowy;LED;inna;nie;"32""";HD Ready;1366 x 768;2;Nie;A+;31 W;-1
+2 899;Powystawowy;OLED;LG;nie;"65""";4K UHD;3840 x 2160;4;Tak;A;145 W;22.1 kg
+419;Nowy;LED;inna;nie;"32""";HD Ready;1366 x 768;2;Nie;A+;31 W;-1
+4 199;Nowy;LED;Samsung;nie;"75""";4K UHD;3840 x 2160;3;Tak;A+;154 W;-1
+1 585;Nowy;LED;Samsung;nie;"50""";4K UHD;3840 x 2160;3;Tak;A;115 W;13.6 kg
+3 699;Nowy;QLED;Samsung;nie;"65""";4K UHD;3840 x 2160;4;Tak;A+;118 W;26 kg
+3 699;Nowy;QLED;Samsung;nie;"65""";4K UHD;3840 x 2160;4;Tak;A+;118 W;26 kg
+439;Nowy;LED;inna;nie;"32""";HD Ready;1366 x 768;3;Nie;A;35 W;4 kg
+229;Używany;LCD;inna;nie;"20""";HD Ready;inna;1;Nie;A;30 W;-1
+229;Używany;LCD;inna;nie;"20""";HD Ready;inna;1;Nie;A;30 W;-1
+730;Używany;LED;Hisense;nie;"40""";4K UHD;3840 x 2160;4;-1;A+;90 W;-1
+879;Nowy;LED;Kruger&Matz;nie;"40""";Full HD;1920 x 1080;2;Nie;A;75 W;6.2 kg
+1 349;Po zwrocie;LED;LG;nie;"50""";4K UHD;3840 x 2160;3;Tak;A;89 W;10.6 kg
+599;Nowy;LED;Manta;nie;"32""";inny;1366 x 768;2;Nie;A;55 W;-1
+899;Nowy;LED;Xiaomi;nie;"32""";HD Ready;1366 x 768;3;Nie;A;45 W;-1
+3 599;Powystawowy;LED;LG;nie;"65""";4K UHD;3840 x 2160;4;Tak;A;154 W;23.1 kg
+469;Nowy;LED;Skymaster;nie;"32""";HD Ready;1366 x 768;3;Nie;A;30 W;-1
+649;Nowy;LED;Kruger&Matz;nie;"32""";HD Ready;1366 x 768;2;Nie;A+;50 W;4.2 kg
+1 799;Po zwrocie;LED;Philips;nie;"55""";4K UHD;3840 x 2160;4;Tak;A;96 W;21.4 kg
+3 490;Powystawowy;QLED;Samsung;nie;"65""";4K UHD;3840 x 2160;4;Tak;A+;118 W;26 kg
+1 299;Nowy;LED;Manta;nie;"50""";4K UHD;3840 x 2160;3;Nie;A;90 W;-1
+1 379;Nowy;LED;Kruger&Matz;nie;"50""";4K UHD;3840 x 2160;3;Tak;A+;71 W;-1
+499;Nowy;LED;Kruger&Matz;nie;"32""";HD Ready;1366 x 768;2;Nie;A+;50 W;4.2 kg
+399;Używany;plazmowy;inna;nie;"60""";inny;1366 x 768;0;-1;inna;440 W;61 kg
+3 599;Nowy;LED;LG;nie;"75""";4K UHD;3840 x 2160;3;Tak;A;198 W;34.6 kg
+1 499;Nowy;LED;Samsung;nie;"50""";4K UHD;3840 x 2160;3;Tak;A;93 W;13.6 kg
+1 449;Nowy;LED;LG;nie;"43""";4K UHD;3840 x 2160;4;Tak;A;71 W;9.1 kg
+3 659;Nowy;QLED;Samsung;nie;"65""";4K UHD;3840 x 2160;4;Tak;A+;118 W;26 kg
+599;Nowy;LED;LG;nie;"32""";HD Ready;1366 x 768;2;Nie;A+;31 W;4.85 kg
+1 738;Nowy;LED;Samsung;nie;"55""";4K UHD;3840 x 2160;3;Tak;A;110 W;17.3 kg
+1 976;Nowy;LED;Xiaomi;-1;"55""";4K UHD;3840 x 2160;3;-1;-1;-1;-1
+367;Nowy;LED;Kruger&Matz;nie;"22""";Full HD;1920 x 1080;1;Nie;A;40 W;2.2 kg
+877;Nowy;LED;Kruger&Matz;nie;"40""";Full HD;1920 x 1080;2;-1;A;75 W;6.2 kg
+1 099;Nowy;LED;Thomson;nie;"43""";4K UHD;3840 x 2160;2;Tak;A+;70 W;7.5 kg
+3 659;Nowy;QLED;Samsung;nie;"65""";4K UHD;3840 x 2160;4;Tak;A+;118 W;26 kg
+699;Używany;LED;Philips;tak;"40""";Full HD;1920 x 1080;2;Tak;A+;35 W;-1
+4 799;Używany;QLED;Samsung;nie;"55""";4K UHD;3840 x 2160;4;Tak;inna;153 W;20.5 kg
+1 349;Używany;LED;Samsung;nie;"43""";4K UHD;3840 x 2160;2;Tak;A;69 W;8.1 kg
+454;Używany;LED;Samsung;nie;"26""";HD Ready;1366 x 768;2;-1;inna;120 W;-1
+1 299;Używany;LED;LG;-1;"55""";Full HD;1920 x 1080;2;-1;-1;-1;-1
+1 899;Używany;LED;Sony;brak informacji;"55""";-1;3840 x 2160;3;-1;A;183 W;-1
+680;Używany;LED;Samsung;tak;"46""";Full HD;1920 x 1080;4;Nie;A;62 W;-1
+2 499;Używany;QLED;Samsung;nie;"55""";4K UHD;3840 x 2160;4;Tak;B;141 W;17.5 kg
+999;Używany;LED;Philips;nie;"42""";Full HD;1920 x 1080;3;Nie;A+;46 W;-1
+150;Używany;LED;Sharp;nie;"32""";HD Ready;1366 x 768;2;-1;A;39 W;-1
+650;Używany;LED;Sony;nie;"46""";Full HD;1920 x 1080;4;Nie;A;133 W;-1
+1 199;Używany;LED;Samsung;nie;"55""";4K UHD;3840 x 2160;3;-1;A+;-1;-1
+950;Używany;LED;Sharp;nie;"50""";Full HD;1920 x 1080;3;Nie;A;80 W;-1
+418;Używany;LCD;Philips;nie;"42""";-1;1366 x 768;2;-1;inna;129 W;-1
+890;Używany;LED;Philips;nie;"43""";4K UHD;3840 x 2160;3;Tak;A;-1;8.5 kg
+1 100;Używany;LED;Sony;nie;"40""";Full HD;1920 x 1080;2;Nie;A;58 W;8.1 kg
+1 199;Używany;LED;Samsung;tak;"40""";Full HD;1920 x 1080;4;-1;A;-1;-1
+349;Używany;LCD;LG;-1;"42""";-1;1920 x 1080;2;-1;-1;-1;-1
+2 500;Używany;plazmowy;LG;tak;"60""";Full HD;1920 x 1080;4;-1;C;245 W;-1
+250;Używany;inny;Kiano;nie;"22""";-1;1920 x 1080;3;-1;A;36 W;-1
+1 000;Używany;plazmowy;Panasonic;nie;"42""";HD Ready;1366 x 768;3;-1;A;180 W;24 kg
+659;Używany;LED;Sony;nie;"40""";Full HD;1920 x 1080;2;-1;A;58 W;4.9 kg
+679;Używany;LED;LG;nie;"32""";-1;1920 x 1080;1;-1;inna;23 W;-1
+599;Używany;LCD;Samsung;nie;"37""";Full HD;1920 x 1080;3;-1;inna;200 W;17.4 kg
+499;Używany;LED;inna;nie;"40""";Full HD;1920 x 1080;3;Nie;A;63 W;-1
+1 549;Używany;LED;Samsung;tak;"37""";-1;1920 x 1080;3;-1;A+;123 W;-1
+950;Używany;plazmowy;LG;nie;"42""";HD Ready;1366 x 768;2;-1;A;320 W;-1
+1 400;Używany;LED;Sony;nie;"48""";Full HD;1920 x 1080;4;-1;A+;42 W;11.7 kg
+1 720;Używany;LED;LG;-1;"50""";Full HD;1920 x 1080;3;-1;-1;-1;-1
+1 899;Używany;LED;Sony;brak informacji;"55""";-1;3840 x 2160;3;-1;A;183 W;-1
+10 959;Nowy;LED;LG;nie;"75""";8K UHD;7680 x 4320;4;Tak;B;272 W;39.1 kg
+11 290;Nowy;QLED;Samsung;nie;"75""";4K UHD;3840 x 2160;4;Tak;B;275 W;36.7 kg
+8 877;Nowy;LED;LG;nie;"75""";4K UHD;3840 x 2160;4;Tak;A+;162 W;37.9 kg
+7 999;Nowy;QLED;Samsung;nie;"75""";4K UHD;3840 x 2160;3;Tak;A+;116 W;36 kg
+18 890;Nowy;QLED;Samsung;nie;"75""";8K UHD;7680 x 4320;4;Tak;C;410 W;42.1 kg
+16 490;Nowy;QLED;Samsung;nie;"75""";8K UHD;7680 x 4320;4;Tak;C;409 W;42.1 kg
+14 852;Nowy;LED;LG;nie;"75""";8K UHD;7680 x 4320;4;Tak;B;272 W;39.1 kg
+24 000;Nowy;QLED;Samsung;nie;"82""";8K UHD;7680 x 4320;4;Tak;D;579 W;50 kg

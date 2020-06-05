@@ -1,1 +1,1 @@
-modularny program do tworzenia csv z API GUS 
+Regresja linowa ceny telewizora na podstawie jego parametrów

@@ -1,0 +1,17 @@
+/Sprawozdanie.log
+.idea
+*.jpg
+*.xml
+latex
+*.zip
+*.bib
+scratch.py
+*.bib
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.xml
+Sprawozdanie.synctex.gz
+Sprawozdanie.toc
+.ipynb_checkpoints/ProjektEkonometria-checkpoint.ipynb
